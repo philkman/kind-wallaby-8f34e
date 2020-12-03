@@ -17,6 +17,12 @@ header:
       url: /pricing
     - label: Style Guide
       url: /style-guide
+    - label: lorem-ipsum
+      url: lorem-ipsum
+      primary: false
+      new_window: false
+      no_follow: false
+      type: action
 footer:
   logo_img: peaq_logo_zusatz_negativ.png
   tagline: SaaS theme by Stackbit
