@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 palette: blue
 header:
-  logo_img: images/logo.png
+  logo_img: peaq_logo.png
   has_nav: true
   nav_links:
     - label: Home
