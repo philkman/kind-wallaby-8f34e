@@ -17,9 +17,6 @@ header:
       url: /pricing
     - label: Style Guide
       url: /style-guide
-    - label: Sign Up
-      url: /signup
-      primary: true
 footer:
   logo_img: peaq_logo_zusatz_negativ.png
   tagline: SaaS theme by Stackbit
