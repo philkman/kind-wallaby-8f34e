@@ -73,4 +73,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: peaq
+domain: peaq.ch
