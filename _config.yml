@@ -21,7 +21,7 @@ header:
       url: /signup
       primary: true
 footer:
-  logo_img: images/logo_alt.png
+  logo_img: peaq_logo_zusatz_negativ.png
   tagline: SaaS theme by Stackbit
   has_nav: true
   nav_title: Company
