@@ -100,7 +100,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        image_alt: lorem-ipsum
+        image_alt: IMG
         actions: []
         type: feature_item
         image: .git/config
