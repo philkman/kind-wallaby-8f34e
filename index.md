@@ -86,7 +86,7 @@ sections:
     background: gray
     title: Latest Posts
   - title: Features
-    section_id: lorem-ipsum
+    section_id: features
     subtitle: lorem-ipsum
     background: gray
     features:
