@@ -88,7 +88,7 @@ sections:
   - title: Features
     section_id: features
     subtitle: Our specilities
-    background: gray
+    background: white
     features:
       - title: lorem-ipsum
         content: >-
