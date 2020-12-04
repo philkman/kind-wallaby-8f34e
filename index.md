@@ -120,7 +120,7 @@ sections:
     type: section_features
   - title: Contact us
     section_id: contact
-    subtitle: lorem-ipsum
+    subtitle: We are happy to hear from you!
     content: >-
       ## Lorem ipsum
 
