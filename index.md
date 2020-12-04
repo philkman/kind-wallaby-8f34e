@@ -87,7 +87,7 @@ sections:
     title: Latest Posts
   - title: Features
     section_id: features
-    subtitle: lorem-ipsum
+    subtitle: Our specilities
     background: gray
     features:
       - title: lorem-ipsum
