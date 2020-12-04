@@ -118,7 +118,7 @@ sections:
         actions: []
         type: feature_item
     type: section_features
-  - title: lorem-ipsum
+  - title: Contact us
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
