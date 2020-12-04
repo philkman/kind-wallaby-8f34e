@@ -90,7 +90,7 @@ sections:
     subtitle: Our specilities
     background: white
     features:
-      - title: lorem-ipsum
+      - title: 'feature # 1'
         content: >-
           ## Lorem ipsum
 
