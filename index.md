@@ -104,7 +104,7 @@ sections:
         actions: []
         type: feature_item
         image: .git/config
-      - title: lorem-ipsum
+      - title: 'feature #2'
         content: >-
           ## Lorem ipsum
 
