@@ -118,6 +118,20 @@ sections:
         actions: []
         type: feature_item
     type: section_features
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    background: gray
+    type: section_contact
 meta_title: Stackbit Azimuth Theme
 meta_description: The preview of the Azimuth theme
 layout: landing
