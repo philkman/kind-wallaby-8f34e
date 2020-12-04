@@ -103,6 +103,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: .git/config
     type: section_features
 meta_title: Stackbit Azimuth Theme
 meta_description: The preview of the Azimuth theme
