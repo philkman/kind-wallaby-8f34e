@@ -119,7 +119,7 @@ sections:
         type: feature_item
     type: section_features
   - title: Contact us
-    section_id: lorem-ipsum
+    section_id: contact
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
